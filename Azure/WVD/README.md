@@ -1,0 +1,1 @@
+Work in Progress. This script is meant to run on a new VM to add it to the WVD hostpool.
